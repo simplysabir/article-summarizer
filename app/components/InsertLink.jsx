@@ -31,7 +31,7 @@ const InsertLink = () => {
     },[link])
 
     return (
-        <section className='font-mono flex items-center flex-col insert-link'>
+        <section className='font-mono flex items-center flex-col insert-link' id='insert'>
             <div>
                 <h1 className='insert-heading font-mono'>Insert Link</h1>
             </div>
