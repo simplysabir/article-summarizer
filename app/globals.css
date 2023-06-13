@@ -28,11 +28,11 @@ body {
   margin-bottom: 1rem;
 }
 .insert-link{
-  height: 100vh;
+  height: 150vh;
 }
 .card{
   width: 90vw;
-  height: 70vh;
+  height: auto;
   background-color: #f2f2f2;
   color: #282828;
   border-radius: 1rem;
