@@ -9,9 +9,16 @@ body {
     
   background-image: linear-gradient(to top, #e76f51, #ea7953, #ed8355, #ef8c58, #f1965b, #f29d5d, #f2a45e, #f2ab61, #f0b162, #eeb864, #ecbe67, #e9c46a);    background-repeat: no-repeat;
   width: 100%;
+  height: 100%;
 
   
 }
 .heading{
   font-size: 1.2rem;
+}
+.hero{
+  height: 50vh;
+}
+.hero-heading{
+  font-size: 2rem;
 }
