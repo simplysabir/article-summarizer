@@ -1,6 +1,9 @@
-import React from 'react'
+"use client";
+import React, {useState, useEffect} from 'react'
 
 const InsertLink = () => {
+    const [url, setUrl] = useState("");
+    const [output, setOutput] = useState("");
   return (
     <section className='font-mono flex items-center flex-col insert-link'>
         <div>
