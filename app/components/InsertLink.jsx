@@ -12,6 +12,12 @@ const InsertLink = () => {
         <div className='font-mono'>
             <input type="text" name="url" id="url" placeholder='insert url ..' className='px-6 py-1' />
         </div>
+        <div className='font-mono'>
+            <h1 className='insert-heading font-mono'>Output</h1>
+            <p>
+                
+            </p>
+        </div>
     </section>
   )
 }
